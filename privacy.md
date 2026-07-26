@@ -20,6 +20,6 @@ We process your information strictly for the following purposes:
 ## 3. How to Get Your Data Deleted
 You retain total control over your information. If you want your data wiped from our database, use one of the following methods:
 *   **In-Bot Command:** Run the command `/delete-my-data` in any chat where the bot is present.
-*   **Manual Request:** Contact our support team via our official support channel or email us at **[Insert Your Contact Email or Support Server Invite Link]**. 
+*   **Manual Request:** Contact our support team via our official support channel or email us at **[Troublethedonsyndicate@gmail.com or https://discord.gg/Hj6jWYTwKG]**. 
 
 Once requested, all user profiles, game history, and saved data linked to your Discord ID will be permanently removed from our active databases within 48 hours.

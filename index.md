@@ -3,12 +3,6 @@
 </p>
 
 # Syndicate Games – Legal Documentation
-Welcome to the official legal documentation repository for the Syndicate Games Discord bot.  
-This site provides public access to our Privacy Policy and Terms of Service for transparency and compliance with Discord’s Developer Policies.
-
-All bot source code, game logic, and internal systems remain fully private and proprietary.
-
-# Syndicate Games – Legal Documentation
 
 Welcome to the official legal documentation repository for the Syndicate Games Discord bot.  
 This site provides public access to our Privacy Policy and Terms of Service for transparency and compliance with Discord’s Developer Policies.
@@ -29,7 +23,7 @@ All bot source code, game logic, and internal systems remain fully private and p
 
 - **Repository Overview (README)**  
   General information about the purpose of this repository and how to contact us.  
-  → [View README](readme)
+  → [View README](readme.md)
 
 ---------------------------------------------------------------------
 

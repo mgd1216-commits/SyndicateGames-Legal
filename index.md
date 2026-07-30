@@ -1,4 +1,12 @@
-![Syndicate Games Legal Banner](your_uploaded_banner_link_here)
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.7a6b2f5e-legal-banner-syndicate.png" alt="Syndicate Games Legal Banner" width="100%">
+</p>
+
+# Syndicate Games – Legal Documentation
+Welcome to the official legal documentation repository for the Syndicate Games Discord bot.  
+This site provides public access to our Privacy Policy and Terms of Service for transparency and compliance with Discord’s Developer Policies.
+
+All bot source code, game logic, and internal systems remain fully private and proprietary.
 
 # Syndicate Games – Legal Documentation
 

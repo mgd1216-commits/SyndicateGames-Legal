@@ -1,24 +1,105 @@
 # Syndicate Games Terms of Service
 
-**Effective Date:** July 3, 2026
+Effective Date: July 3, 2026
 
-Welcome to Syndicate Games. By adding our bot to your server or interacting with our services, you agree to these Terms of Service. Please read them carefully.
+These Terms of Service (“Terms”) govern your use of the Syndicate Games Discord bot and related services. By interacting with the bot, you agree to these Terms. If you do not agree, you must discontinue use of Syndicate Games.
 
-## 1. Acceptance of Terms
-By using Syndicate Games, you confirm that you agree to these Terms, as well as the official Discord Terms of Service and Developer Terms of Service. If you do not agree, you must remove the bot from your server and cease all interaction with it.
+---------------------------------------------------------------------
 
-## 2. User Conduct & Fair Play
-To keep the gaming community fun and fair for everyone, you agree **not** to:
-*   **Exploit Bugs:** Abuse glitches, duplication methods, or code errors to gain an unfair advantage.
-*   **Automate Gameplay:** Use self-bots, macros, scripts, or external automation tools to play the games.
-*   **Harass Others:** Use custom bot inputs (such as profile names or custom team names) to spread hate speech, harassment, or offensive content.
-*   **Disrupt Infrastructure:** Attempt to spam commands, crash the bot, or compromise our hosting servers.
+1. Use of the Service
 
-## 3. Virtual Goods and Economy
-Any virtual currency, items, scores, or achievements earned within Syndicate Games hold **no real-world monetary value**. They cannot be traded for real currency or external assets. We reserve the right to reset, modify, or revoke in-game data at any time to maintain game balance or punish cheating.
+Syndicate Games provides gameplay features, automated systems, and moderation tools within Discord servers. By using the bot, you acknowledge that:
 
-## 4. Limitation of Liability
-Syndicate Games is provided on an "as-is" and "as-available" basis. The developers make no guarantees regarding uptime, data permanence, or error-free operation. We are not liable for any damages, data loss, or server disruptions resulting from your use of the bot.
+- You must comply with Discord’s Terms of Service and Community Guidelines.
+- You must follow all rules set by the server owners where the bot is installed.
+- You may not use the bot for illegal activity, harassment, exploitation, or abuse.
 
-## 5. Termination of Service
-We reserve the right to block individual users or entire Discord servers from accessing Syndicate Games at our sole discretion, without prior notice, for violating these terms.
+Server administrators may configure features, permissions, and moderation tools at their discretion.
+
+---------------------------------------------------------------------
+
+2. User Responsibilities
+
+By interacting with Syndicate Games, you agree to:
+
+- Use commands and features as intended.
+- Avoid attempting to exploit, cheat, or manipulate game systems.
+- Refrain from reverse engineering, copying, or redistributing any part of the bot or its systems.
+- Respect automated moderation tools, including anti-abuse systems such as Ping Shield and keyword Triggers.
+
+Violation of these responsibilities may result in restricted access or removal from the service.
+
+---------------------------------------------------------------------
+
+3. Data Handling
+
+Our data practices are described in detail in the Privacy Policy. By using Syndicate Games, you consent to the collection and processing of data as outlined there.
+
+Key points include:
+
+- Minimal data collection required for gameplay and functionality.
+- Real-time message scanning for moderation features is transient and not stored.
+- No collection of full message history or private messages.
+- No sale or sharing of user data with third parties.
+
+For full details, refer to the Privacy Policy.
+
+---------------------------------------------------------------------
+
+4. Service Availability
+
+Syndicate Games is provided “as is” and “as available.” We do not guarantee:
+
+- Uninterrupted uptime
+- Error-free performance
+- Preservation of game progress in the event of outages or technical failures
+
+We reserve the right to modify, update, or discontinue features at any time.
+
+---------------------------------------------------------------------
+
+5. Limitation of Liability
+
+To the fullest extent permitted by law:
+
+- Syndicate Games, its developers, and affiliates are not liable for any damages arising from use or inability to use the bot.
+- You use the bot at your own risk.
+- No warranties, express or implied, are provided.
+
+---------------------------------------------------------------------
+
+6. Termination
+
+We may suspend or terminate access to Syndicate Games for:
+
+- Violations of these Terms
+- Abuse of bot features
+- Attempts to exploit or damage the service
+- Actions that threaten stability, security, or user safety
+
+Users may stop using the bot at any time.
+
+---------------------------------------------------------------------
+
+7. Data Deletion Requests
+
+Users may request deletion of all data associated with their Discord ID by contacting:
+
+Email: Troublethedonsyndicate@gmail.com  
+Support Server: https://discord.gg/Hj6jWYTwKG
+
+Deletion requests are processed within 48 hours.
+
+---------------------------------------------------------------------
+
+8. Contact Information
+
+For questions about these Terms or other legal matters:
+
+Email: Troublethedonsyndicate@gmail.com  
+Support Server: https://discord.gg/Hj6jWYTwKG
+
+---------------------------------------------------------------------
+
+© 2026 Syndicate Games  
+All rights reserved.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.7a6b2f5e-legal-banner-syndicate.png" alt="Syndicate Games Legal Banner" width="100%">
+  <img src="https://copilot.microsoft.com/th/id/BCO.syndicate-banner-stable.png" alt="Syndicate Games Legal Banner" width="100%">
 </p>
 
 # Syndicate Games – Legal Documentation

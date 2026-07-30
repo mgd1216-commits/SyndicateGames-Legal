@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mgd1216-commits/SyndicateGames-Legal/main/IMG_2338.png" width="100%">
+  <img src="https://raw.githubusercontent.com/mgd1216-commits/SyndicateGames-Legal/main/IMG_2338.jpeg" alt="Syndicate Games Legal Documentation Banner" width="100%">
 </p>
 
 # Syndicate Games – Legal Documentation

@@ -1,4 +1,5 @@
-![Syndicate Games Legal Banner](https://copilot.microsoft.com/th/id/BCO.4f13dc74-23c5-4041-9560-4d4e3a76f16a.png)
+![Syndicate Games Legal Banner](your_uploaded_banner_link_here)
+
 # Syndicate Games – Legal Documentation
 
 Welcome to the official legal documentation repository for the Syndicate Games Discord bot.  

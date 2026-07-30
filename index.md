@@ -23,7 +23,7 @@ All bot source code, game logic, and internal systems remain fully private and p
 
 - **Repository Overview (README)**  
   General information about the purpose of this repository and how to contact us.  
-  → [View README](https://github.com/mgd1216-commits/SyndicateGames-Legal/blob/main/README.md)
+  → [View README](https://github.com/mgd1216-commits/SyndicateGames-Legal/blob/main/readme.md)
 
 ---
 

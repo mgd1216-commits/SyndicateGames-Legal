@@ -12,10 +12,10 @@ We only collect the minimum data necessary to operate Syndicate Games features:
 
 - Discord Identifiers: Discord User IDs and Guild/Server IDs used to associate game profiles with the correct user and server.
 - Gameplay Data: Scores, inventories, statistics, and economy values tied to your User ID.
-- Command Inputs: Only the content explicitly submitted through bot commands to process gameplay actions.
-- Operational Logs: Limited error logs used solely for debugging and stability.
+- Command Inputs: Content explicitly submitted through bot commands to process gameplay actions.
+- Real-Time Message Scanning: Certain moderation and automation features (our anti-abuse “Ping Shield” system and admin-configured keyword “Triggers”) read ordinary message text in real time to determine whether a rule applies. This content is processed transiently and is never written to our database — if a rule fires, only a short preview may appear in a staff-configured log channel within Discord itself.
 
-We do not collect message history, private messages, or any content outside direct bot interactions.
+We do not collect or store full message history or private messages.
 
 ---------------------------------------------------------------------
 

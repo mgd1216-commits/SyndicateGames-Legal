@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mgd1216-commits/SyndicateGames-Legal/main/IMG_2330.png" width="100%">
+</p>
+
 # Syndicate Games – Legal Documentation
 
 This repository contains the public legal documents for the Syndicate Games Discord bot.  

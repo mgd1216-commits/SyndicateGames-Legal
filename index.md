@@ -15,11 +15,11 @@ All bot source code, game logic, and internal systems remain fully private and p
 
 - **Privacy Policy**  
   Details what data Syndicate Games collects, how it is used, how it is stored, and how users can request deletion.  
-  → [View Privacy Policy](https://github.com/mgd1216-commits/SyndicateGames-Legal/blob/main/privacy.md)
+  → [View Privacy Policy](https://mgd1216-commits.github.io/SyndicateGames-Legal/privacy)
 
 - **Terms of Service**  
   Outlines user responsibilities, allowed usage, prohibited behavior, and the rules governing interaction with the Syndicate Games bot.  
-  → [View Terms of Service](https://github.com/mgd1216-commits/SyndicateGames-Legal/blob/main/terms.md)
+  → [View Terms of Service](https://mgd1216-commits.github.io/SyndicateGames-Legal/terms)
 
 - **Repository Overview (README)**  
   General information about the purpose of this repository and how to contact us.  

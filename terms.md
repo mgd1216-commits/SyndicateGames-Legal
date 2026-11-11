@@ -1,6 +1,6 @@
 # Syndicate Games Terms of Service
 
-Effective Date: July 3, 2026
+Effective Date: November 11, 2026
 
 These Terms of Service (“Terms”) govern your use of the Syndicate Games Discord bot and related services. By interacting with the bot, you agree to these Terms. If you do not agree, you must discontinue use of Syndicate Games.
 
@@ -24,8 +24,9 @@ By interacting with Syndicate Games, you agree to:
 
 - Use commands and features as intended.
 - Avoid attempting to exploit, cheat, or manipulate game systems.
+- Understand that the bot's economy is virtual and for entertainment only. Coins and items have no real-money value and cannot be bought, sold, or cashed out for real money.
 - Refrain from reverse engineering, copying, or redistributing any part of the bot or its systems.
-- Respect automated moderation tools, including anti-abuse systems such as Ping Shield and keyword Triggers.
+- Respect automated tools server admins enable, such as Ping Shield and Triggers.
 
 Violation of these responsibilities may result in restricted access or removal from the service.
 
@@ -37,10 +38,11 @@ Our data practices are described in detail in the Privacy Policy. By using Syndi
 
 Key points include:
 
-- Minimal data collection required for gameplay and functionality.
-- Real-time message scanning for moderation features is transient and not stored.
-- No collection of full message history or private messages.
-- No sale or sharing of user data with third parties.
+- We collect the data needed to run the bot's games, economy and server tools, such as your Discord user ID, username and game data.
+- Some features read message text: Triggers (when admins set them up), Ping Shield previews, and Rumble Assistant (only the Rumble Royale bot's messages). Message text is not saved in our database, but limited excerpts appear in log channels and our logs as the Privacy Policy explains.
+- We do not collect full message history or private messages.
+- We never sell your data. Service providers that run the bot (Neon, Hetzner) process it for us.
+- Message content is never used to train AI models.
 
 For full details, refer to the Privacy Policy.
 
@@ -86,7 +88,7 @@ Users may stop using the bot at any time.
 Users may request deletion of all data associated with their Discord ID by contacting:
 
 Email: Troublethedonsyndicate@gmail.com  
-Support Server: https://discord.gg/Hj6jWYTwKG
+Support Server: https://discord.gg/PY6sfJhct6
 
 Deletion requests are processed within 48 hours.
 
@@ -97,7 +99,7 @@ Deletion requests are processed within 48 hours.
 For questions about these Terms or other legal matters:
 
 Email: Troublethedonsyndicate@gmail.com  
-Support Server: https://discord.gg/Hj6jWYTwKG
+Support Server: https://discord.gg/PY6sfJhct6
 
 ---------------------------------------------------------------------
 

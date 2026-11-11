@@ -26,15 +26,13 @@ This repository exists solely for transparency and compliance with Discord’s D
 No source code is published here.  
 No part of the Syndicate Games bot may be copied, modified, or redistributed.
 
-For licensing details, see the `LICENSE` file.
-
 ---
 
 ## Data Deletion Requests
 
 Users may request deletion of all data associated with their Discord ID by contacting:
 
-- Support Server: https://discord.gg/Hj6jWYTwKG  
+- Support Server: https://discord.gg/PY6sfJhct6  
 - Email: Troublethedonsyndicate@gmail.com  
 
 All deletion requests are processed within **48 hours**.
@@ -46,7 +44,7 @@ All deletion requests are processed within **48 hours**.
 For legal questions or privacy concerns:
 
 - Email: Troublethedonsyndicate@gmail.com  
-- Support Server: https://discord.gg/Hj6jWYTwKG  
+- Support Server: https://discord.gg/PY6sfJhct6  
 
 ---
 

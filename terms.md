@@ -39,7 +39,7 @@ Our data practices are described in detail in the Privacy Policy. By using Syndi
 Key points include:
 
 - We collect the data needed to run the bot's games, economy and server tools, such as your Discord user ID, username and game data.
-- Some features read message text: Triggers (when admins set them up), Ping Shield previews, and Rumble Assistant (only the Rumble Royale bot's messages). Message text is not saved in our database, but limited excerpts appear in log channels and our logs as the Privacy Policy explains.
+- Some features read message text: Triggers (when admins set them up), Ping Shield previews, and Rumble Assistant (only the Rumble Royale bot's messages). Message text is never stored outside Discord; short excerpts appear only in Discord log channels, as the Privacy Policy explains.
 - We do not collect full message history or private messages.
 - We never sell your data. Service providers that run the bot (Neon, Hetzner) process it for us.
 - Message content is never used to train AI models.

@@ -28,12 +28,12 @@ Some features read the text of messages. This is how each one works:
 
 - Triggers (admin-created auto-responses): in servers whose admins create triggers, the bot checks the text of members' messages for the trigger words those admins set. Staff can also send triggers with the /t slash command, which reads no message text. When a trigger fires:
   - a log entry with up to 1,000 characters of the triggering message is posted to the bot owner's log channel in Discord (when trigger logging is turned on), and to a separate log channel if one is set for that trigger;
-  - the trigger name, user, server, channel and matched word are written to our logs. For pattern-based triggers, the matched word is the part of your message that matched.
+  - the trigger name, user, server, channel and the trigger word or pattern that fired are written to our logs. The text of your message is not.
 - Ping Shield (anti-ping protection): uses Discord's mention data to remove messages that ping protected members. When it removes a message, a preview of up to 200 characters is posted to that server's own staff log channel.
-- Rumble Assistant: in servers we have approved, it reads only messages sent by the Rumble Royale bot, only in battle channels the server's admins select, to detect battle starts and winners. Up to 200 characters of that bot's message text and embeds are written to our bot's process logs. It never reads members' own messages.
+- Rumble Assistant: in servers we have approved, it reads only messages sent by the Rumble Royale bot, only in battle channels the server's admins select, to detect battle starts and winners. It doesn't keep that bot's message text, and it never reads members' own messages.
 - Admin upload prompts: when an admin is asked to send a file or emoji in the channel, the bot reads that one message; a file link they send is saved to the setting it was meant for.
 
-We do not save message text in our database, and we do not collect message history or private messages. Message content is never used to train AI or machine-learning models and is never sent to any AI service.
+Message text never leaves Discord: we do not store it in our database, files or logs, and we do not collect message history or private messages. Message content is never used to train AI or machine-learning models and is never sent to any AI service.
 
 ---------------------------------------------------------------------
 

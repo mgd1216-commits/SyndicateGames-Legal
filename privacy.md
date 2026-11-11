@@ -72,7 +72,7 @@ The database, server and log files are accessible only to the bot's developer. L
 
 - Transaction history: 30 days.
 - Command and trigger logs: 14 days in our database; log files are deleted after 7 days.
-- Process logs on our server: [CONFIRM: Coolify container log retention on Hetzner].
+- Process logs on our server: rotated automatically. At most about 30 MB of the most recent logs are kept (3 files of 10 MB), and older entries are overwritten.
 - Vote audit records (used for vote-fraud checks): 90 days. Your vote totals and streaks are part of your game data.
 - Log entries posted to Discord channels: until the channel's owner deletes them.
 - Profile, game, card, payout and settings data: until you or a server admin asks us to delete it.

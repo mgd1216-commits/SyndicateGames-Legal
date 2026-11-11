@@ -31,7 +31,7 @@ All bot source code, game logic, and internal systems remain fully private and p
 
 Users may request deletion of all data associated with their Discord ID by contacting:
 
-- Support Server: https://discord.gg/Hj6jWYTwKG  
+- Support Server: https://discord.gg/PY6sfJhct6  
 - Email: Troublethedonsyndicate@gmail.com
 
 All deletion requests are processed within 48 hours.
@@ -43,7 +43,7 @@ All deletion requests are processed within 48 hours.
 For legal questions or privacy concerns:
 
 Email: Troublethedonsyndicate@gmail.com  
-Support Server: https://discord.gg/Hj6jWYTwKG
+Support Server: https://discord.gg/PY6sfJhct6
 
 ---
 
